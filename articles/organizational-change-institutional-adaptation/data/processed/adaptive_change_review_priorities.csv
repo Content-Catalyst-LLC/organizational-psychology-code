@@ -1,0 +1,11 @@
+unit_id,avg_adaptive_profile,legitimacy_condition,transformation_pattern,review_priority,interpretive_note
+Unit_01,High,High,Stable transformation,Routine Monitoring,Strong sensing, governance alignment, learning, and legitimacy support adaptation.
+Unit_02,Moderate,Moderate,Variable transformation,Structured Review,Inertia and fragmentation rise as environmental pressure increases.
+Unit_03,High,High,Stable transformation,Routine Monitoring,Strong institutional readiness and low resistance friction.
+Unit_04,Low,Low,Symbolic change risk,Immediate Review,Synthetic example of weak governance alignment and high inertia.
+Unit_05,Moderate-High,Moderate-High,Mostly stable transformation,Routine Monitoring,Monitor resource flexibility and rising fragmentation.
+Unit_06,Low-Moderate,Moderate,Failed transformation risk,Immediate Review,High pressure and resistance friction weaken adaptive capacity.
+Unit_07,Moderate-High,High,Stable transformation,Routine Monitoring,Good learning and legitimacy offset moderate pressure.
+Unit_08,Low,Low,Symbolic change risk,Immediate Review,Synthetic example of severe adaptation risk and high fragmentation.
+Unit_09,High,High,Stable transformation,Routine Monitoring,Strong sensemaking and governance support adaptive change.
+Unit_10,Low,Low,Failed transformation risk,Immediate Review,Synthetic example of high inertia and weak legitimacy under pressure.
