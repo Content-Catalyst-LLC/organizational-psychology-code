@@ -1,0 +1,11 @@
+unit_id,avg_culture_change_profile,credibility_condition,cultural_adoption_pattern,review_priority,interpretive_note
+Unit_01,High,High,Stable cultural adoption,Routine Monitoring,Strong credibility, narrative coherence, reinforcement alignment, and safety support cultural adoption.
+Unit_02,Moderate,Moderate,Symbolic culture risk,Structured Review,Reinforcement alignment weakens and leadership turnover increases symbolic culture-change risk.
+Unit_03,High,High,Stable cultural adoption,Routine Monitoring,Strong cultural-change conditions and low resistance support durable adoption.
+Unit_04,Low,Low,Symbolic culture change risk,Immediate Review,Synthetic example of low credibility, weak reinforcement, high resistance, and legacy lock-in.
+Unit_05,Moderate-High,Moderate-High,Mostly stable cultural adoption,Routine Monitoring,Monitor resistance intensity and subcultural fragmentation.
+Unit_06,Low-Moderate,Low,Failed adoption risk,Immediate Review,Leadership turnover, weak reinforcement, and high fragmentation weaken culture-change capacity.
+Unit_07,Moderate-High,High,Stable cultural adoption,Routine Monitoring,Strong psychological safety and adaptive learning support cultural translation.
+Unit_08,Low,Low,Symbolic culture change risk,Immediate Review,Synthetic example of severe resistance, low safety, and strong legacy lock-in.
+Unit_09,High,High,Stable cultural adoption,Routine Monitoring,Strong reinforcement alignment and identity adaptability support adoption.
+Unit_10,Low,Low,Failed adoption risk,Immediate Review,Synthetic example of weak credibility and high legacy lock-in under leadership turnover.
