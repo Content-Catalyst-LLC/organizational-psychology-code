@@ -1,0 +1,9 @@
+unit_id,avg_resilience_profile,fragility_level,recovery_pattern,review_priority,interpretive_note
+Unit_01,High,Low,Stable recovery,Routine Monitoring,Strong learning and psychological safety buffer moderate shocks.
+Unit_02,Moderate,Moderate,Variable recovery,Structured Review,Fragility and complexity increase in later periods.
+Unit_03,High,Low,Stable recovery,Routine Monitoring,High robustness and governance responsiveness support recovery.
+Unit_04,Low,High,Repeated degradation,Immediate Review,Synthetic example of compounded fragility and weak signal capacity.
+Unit_05,Moderate,Moderate,Partial recovery,Structured Review,Shock response weakens as exposure rises.
+Unit_06,Moderate-High,Low-Moderate,Mostly stable recovery,Structured Review,Monitor high shock periods and redundancy capacity.
+Unit_07,Low,High,Repeated degradation,Immediate Review,Synthetic example of brittle capacity under sustained complexity.
+Unit_08,High,Low,Stable recovery,Routine Monitoring,Strong profile across resilience dimensions.
