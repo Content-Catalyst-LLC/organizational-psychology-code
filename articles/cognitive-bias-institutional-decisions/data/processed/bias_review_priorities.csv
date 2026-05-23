@@ -1,0 +1,11 @@
+unit_id,avg_bias_profile,challenge_condition,decision_pattern,review_priority,interpretive_note
+Unit_01,Low,High,Low decision-error risk,Routine Monitoring,Strong signal quality, viewpoint diversity, analytical discipline, and structured challenge reduce bias pressure.
+Unit_02,Moderate,Moderate,Variable decision-error risk,Structured Review,Hierarchy suppression and time pressure rise while learning review weakens.
+Unit_03,Low,High,Low decision-error risk,Routine Monitoring,Strong decision architecture and low conformity pressure support judgment quality.
+Unit_04,High,Low,High decision-error and escalation risk,Immediate Review,Synthetic example of severe hierarchy suppression, time pressure, weak challenge, and high conformity.
+Unit_05,Moderate-Low,Moderate-High,Mostly stable decision quality,Routine Monitoring,Monitor routine reinforcement and time pressure.
+Unit_06,High,Low,High bias-pressure risk,Immediate Review,Weak challenge and high suppression combine with routine reinforcement.
+Unit_07,Moderate-Low,High,Low decision-error risk,Routine Monitoring,Structured challenge and learning review reduce bias pressure.
+Unit_08,High,Low,High escalation risk,Immediate Review,Synthetic example of strong conformity, weak diversity, and suppressed dissent.
+Unit_09,Low,High,Low decision-error risk,Routine Monitoring,Strong signal quality and analytical discipline support institutional correction.
+Unit_10,High,Low,High decision-error risk,Immediate Review,Synthetic example of bias pressure driven by hierarchy, time pressure, and routine reinforcement.
