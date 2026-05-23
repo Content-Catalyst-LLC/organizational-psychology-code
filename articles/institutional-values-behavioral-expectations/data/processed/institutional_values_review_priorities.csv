@@ -1,0 +1,11 @@
+unit_id,avg_values_profile,credibility_condition,values_pattern,review_priority,interpretive_note
+Unit_01,High,High,Credible values system,Routine Monitoring,Strong clarity, leadership consistency, reinforcement alignment, safety, and accountability support value-practice alignment.
+Unit_02,Moderate,Moderate,Symbolic values risk,Structured Review,Decoupling risk and incentive contradiction rise while reinforcement alignment weakens.
+Unit_03,High,High,Credible values system,Routine Monitoring,Strong institutional values conditions and low hierarchy exemption support credibility.
+Unit_04,Low,Low,Severe symbolic values risk,Immediate Review,Synthetic example of high decoupling, incentive contradiction, and hierarchy exemption.
+Unit_05,Moderate-High,Moderate-High,Mostly credible values system,Routine Monitoring,Monitor decoupling and incentive contradiction as legitimacy pressure increases.
+Unit_06,Low-Moderate,Low,Values credibility failure risk,Immediate Review,Weak accountability and high hierarchy exemption reduce credibility.
+Unit_07,Moderate-High,High,Credible values system,Routine Monitoring,Strong psychological safety and accountability support institutional learning.
+Unit_08,Low,Low,Severe symbolic values risk,Immediate Review,Synthetic example of weak reinforcement and visible value-practice gaps.
+Unit_09,High,High,Credible values system,Routine Monitoring,Strong value clarity and leadership consistency support institutional trust.
+Unit_10,Low,Low,Values credibility failure risk,Immediate Review,Synthetic example of high decoupling and legitimacy risk.
