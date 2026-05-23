@@ -1,0 +1,11 @@
+unit_id,avg_information_flow_profile,psychological_safety_condition,decision_pattern,review_priority,interpretive_note
+Unit_01,High,High,Low decision risk,Routine Monitoring,Strong signal quality, clarity, and safety support coordinated judgment.
+Unit_02,Moderate,Moderate,Variable decision risk,Structured Review,Hierarchy delay and overload increase across periods.
+Unit_03,High,High,Low decision risk,Routine Monitoring,Strong communication infrastructure and low distortion risk.
+Unit_04,Low,Low,High escalation failure risk,Immediate Review,Synthetic example of weak safety, high distortion, overload, and hierarchy delay.
+Unit_05,Moderate-High,Moderate-High,Mostly stable communication,Routine Monitoring,Monitor overload and rising distortion risk.
+Unit_06,Low-Moderate,Moderate,Communication breakdown risk,Immediate Review,High hierarchy delay and overload weaken decision quality.
+Unit_07,Moderate-High,High,Low decision risk,Routine Monitoring,Good cross-functional connectivity and safety support information flow.
+Unit_08,Low,Low,High escalation failure risk,Immediate Review,Synthetic example of severe communication risk and suppressed visibility.
+Unit_09,High,High,Low decision risk,Routine Monitoring,Strong signal quality and connectivity support institutional learning.
+Unit_10,Low,Low,Communication breakdown risk,Immediate Review,Synthetic example of high overload and delayed escalation.
