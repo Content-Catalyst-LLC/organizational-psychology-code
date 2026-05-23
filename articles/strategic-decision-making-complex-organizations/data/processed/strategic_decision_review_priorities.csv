@@ -1,0 +1,11 @@
+unit_id,avg_strategic_profile,governance_condition,strategic_outcome_pattern,review_priority,interpretive_note
+Unit_01,High,High,Stable strategic success,Routine Monitoring,Strong sensing, integration, governance, and learning support strategic quality.
+Unit_02,Moderate,Moderate,Variable strategic outcome,Structured Review,Bias pressure and political distortion increase across periods.
+Unit_03,High,High,Stable strategic success,Routine Monitoring,Strong strategic review architecture and low political distortion.
+Unit_04,Low,Low,Symbolic strategy risk,Immediate Review,Synthetic example of weak integration and high bias pressure.
+Unit_05,Moderate-High,Moderate-High,Mostly stable strategic success,Routine Monitoring,Monitor rising complexity and bias pressure.
+Unit_06,Low-Moderate,Moderate,Failed strategy risk,Immediate Review,High complexity and political distortion weaken strategic decision quality.
+Unit_07,Moderate-High,High,Stable strategic success,Routine Monitoring,Strong adaptive learning offsets moderate turbulence.
+Unit_08,Low,Low,Symbolic strategy risk,Immediate Review,Synthetic example of severe strategic risk and weak governance.
+Unit_09,High,High,Stable strategic success,Routine Monitoring,Strong knowledge integration and governance support strategic resilience.
+Unit_10,Low,Low,Failed strategy risk,Immediate Review,Synthetic example of high bias pressure and weak option diversity.
