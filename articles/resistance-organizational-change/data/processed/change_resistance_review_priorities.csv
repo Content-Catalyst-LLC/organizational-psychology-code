@@ -1,0 +1,11 @@
+unit_id,avg_resistance_profile,trust_condition,adoption_pattern,review_priority,interpretive_note
+Unit_01,Low,High,Stable constructive adoption,Routine Monitoring,Strong trust and implementation clarity reduce resistance.
+Unit_02,Moderate,Moderate,Variable adoption,Structured Review,Uncertainty and workload strain increase during transition.
+Unit_03,Low,High,Stable constructive adoption,Routine Monitoring,High participation and clarity support adoption.
+Unit_04,High,Low,Sustained resistance and symbolic compliance,Immediate Review,Synthetic example of high threat, low trust, and failed change history.
+Unit_05,Moderate,Moderate,Partial adoption,Structured Review,Monitor rising perceived loss and clarity concerns.
+Unit_06,High,Low,Sustained resistance,Immediate Review,Synthetic example of unresolved trust and workload burden.
+Unit_07,Moderate-Low,High,Stable constructive adoption,Routine Monitoring,Participation quality offsets moderate routine embeddedness.
+Unit_08,High,Low,Sustained resistance and symbolic compliance,Immediate Review,Synthetic example of severe change-friction risk.
+Unit_09,Low-Moderate,High,Stable constructive adoption,Routine Monitoring,Strong leadership trust and clarity support change.
+Unit_10,High,Low,Sustained resistance,Immediate Review,Synthetic example of prior failure history and high identity threat.
