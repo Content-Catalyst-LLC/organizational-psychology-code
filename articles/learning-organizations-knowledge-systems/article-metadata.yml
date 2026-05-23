@@ -1,0 +1,47 @@
+title: "Learning Organizations and Knowledge Systems"
+slug: "learning-organizations-knowledge-systems"
+series: "Organizational Psychology"
+article_type: "advanced-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/learning-organizations-knowledge-systems"
+local_path: "~/Downloads/organizational-psychology-code/articles/learning-organizations-knowledge-systems"
+primary_methods:
+  - synthetic data generation
+  - learning capacity modeling
+  - knowledge decay simulation
+  - adaptive improvement classification
+  - institutional learning diagnostics
+  - knowledge governance review
+  - cross-boundary communication analysis
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - organizational knowledge governance education
+    - reproducible workflow education
+    - organizational psychology teaching
+    - learning organization concept exploration
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - psychological assessment
+    - automated personnel decision-making
