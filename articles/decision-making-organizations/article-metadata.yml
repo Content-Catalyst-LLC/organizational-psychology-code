@@ -1,0 +1,27 @@
+title: "Decision-Making in Organizations"
+slug: "decision-making-organizations"
+series: "Organizational Psychology"
+article_map: "/organizational-psychology/"
+github_url: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/decision-making-organizations"
+status: "companion-code"
+created: "2026-05-23"
+scope: "synthetic-data research and reproducibility scaffold"
+languages:
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Julia
+  - Python
+  - R
+  - Rust
+  - SQL
+methods:
+  - decision-quality scoring
+  - institutional-risk scoring
+  - implementation-error modeling
+  - signal-quality analysis
+  - psychological-safety analysis
+  - coordination-load simulation
+  - context audit
+  - responsible-use review
