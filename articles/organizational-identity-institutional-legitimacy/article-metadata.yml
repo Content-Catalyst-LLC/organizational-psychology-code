@@ -1,0 +1,54 @@
+title: "Organizational Identity and Institutional Legitimacy"
+slug: "organizational-identity-institutional-legitimacy"
+series: "Organizational Psychology"
+article_type: "advanced-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/organizational-identity-institutional-legitimacy"
+local_path: "~/Downloads/organizational-psychology-code/articles/organizational-identity-institutional-legitimacy"
+primary_methods:
+  - synthetic data generation
+  - organizational identity coherence modeling
+  - institutional legitimacy classification
+  - identity risk scoring
+  - stakeholder trust scenario analysis
+  - value-practice alignment diagnostics
+  - identity contradiction and fragmentation review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - organizational identity review
+    - institutional legitimacy education
+    - stakeholder trust modeling education
+    - governance and accountability review
+    - reproducible workflow education
+    - organizational psychology teaching
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - cultural-loyalty scoring
+    - cultural-fit scoring
+    - worker legitimacy scoring
+    - productivity ranking
+    - psychological assessment
+    - automated personnel decision-making

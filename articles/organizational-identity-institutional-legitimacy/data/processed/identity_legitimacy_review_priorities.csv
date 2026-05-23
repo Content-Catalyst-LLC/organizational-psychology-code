@@ -1,0 +1,11 @@
+unit_id,avg_identity_profile,legitimacy_condition,identity_pattern,review_priority,interpretive_note
+Unit_01,High,High,Stable legitimacy,Routine Monitoring,Strong mission clarity and value-practice alignment support identity coherence.
+Unit_02,Moderate,Moderate,Symbolic identity risk,Structured Review,Fragmentation and contradiction rise under legitimacy pressure.
+Unit_03,High,High,Stable legitimacy,Routine Monitoring,Strong narrative continuity and leadership credibility support trust.
+Unit_04,Low,Low,Symbolic identity failure risk,Immediate Review,Synthetic example of weak alignment, high contradiction, and high fragmentation.
+Unit_05,Moderate-High,Moderate-High,Mostly stable legitimacy,Routine Monitoring,Monitor contradiction and fragmentation as legitimacy pressure increases.
+Unit_06,Low-Moderate,Low,Legitimacy risk,Immediate Review,High fragmentation and identity contradiction weaken stakeholder legitimacy.
+Unit_07,Moderate-High,High,Stable legitimacy,Routine Monitoring,Strong behavioral consistency and leadership credibility support identity stewardship.
+Unit_08,Low,Low,Symbolic identity risk,Immediate Review,Synthetic example of severe contradiction and stakeholder trust risk.
+Unit_09,High,High,Stable legitimacy,Routine Monitoring,Strong value-practice alignment and narrative continuity support identity coherence.
+Unit_10,Low,Low,Legitimacy failure risk,Immediate Review,Synthetic example of low credibility and high symbolic identity risk.
