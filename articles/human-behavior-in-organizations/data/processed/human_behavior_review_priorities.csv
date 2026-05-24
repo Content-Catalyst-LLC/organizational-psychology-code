@@ -1,0 +1,11 @@
+unit_id,avg_behavior_profile,behavior_system_condition,review_priority,interpretive_note
+Unit_01,High,Healthy behavior system,Routine Monitoring,Strong role clarity, psychological safety, leadership trust, aligned norms, low fear, and strong voice support constructive behavior.
+Unit_02,Moderate,Strained behavior system,Structured Review,Moderate behavior quality with rising workload, burnout, fear, and declining role clarity.
+Unit_03,High,Healthy behavior system,Routine Monitoring,High trust, safety, motivation, role clarity, and voice efficacy support learning-oriented behavior.
+Unit_04,Low,High risk,Immediate Review,Synthetic example of low safety, low trust, weak motivation, high hierarchy, high fear, and voice suppression.
+Unit_05,Moderate-High,Mostly stable,Routine Monitoring,Monitor workload and burnout pressure while preserving trust, role clarity, and voice access.
+Unit_06,Low-Moderate,High risk,Immediate Review,Weak role clarity, low safety, high workload, burnout pressure, and fear create behavior-system risk.
+Unit_07,Moderate-High,Stable,Routine Monitoring,Healthy trust and clarity with manageable strain signals.
+Unit_08,Low,High risk,Immediate Review,Synthetic example of severe overload, high fear, high hierarchy, low safety, and weak voice.
+Unit_09,High,Healthy behavior system,Routine Monitoring,Strong leadership trust, psychological safety, role clarity, and voice efficacy support constructive behavior.
+Unit_10,Low,High risk,Immediate Review,Synthetic example of high strain, low trust, weak safety, and elevated silence risk.
