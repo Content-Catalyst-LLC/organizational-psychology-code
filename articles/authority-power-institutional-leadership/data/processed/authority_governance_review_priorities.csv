@@ -1,0 +1,11 @@
+unit_id,avg_authority_profile,governance_condition,authority_power_pattern,review_priority,interpretive_note
+Unit_01,High,Stable,Legitimate and accountable authority,Routine Monitoring,Strong legitimacy, fairness, ethical credibility, accountability, voice, and oversight support institutional stability.
+Unit_02,Moderate,Strained,Legitimacy decay risk,Structured Review,Governance fragmentation and distrust rise while voice, oversight, and accountability weaken.
+Unit_03,High,Stable,High-credibility governance,Routine Monitoring,Strong legitimacy, procedural fairness, ethical credibility, and low arbitrariness support authority effectiveness.
+Unit_04,Low,High Risk,Severe authority/governance risk,Immediate Review,Synthetic example of weak legitimacy, weak voice, weak oversight, high arbitrariness, and high informal power concentration.
+Unit_05,Moderate-High,Mostly Stable,Accountable authority with monitoring needs,Routine Monitoring,Monitor informal power concentration and fragmentation as complexity rises.
+Unit_06,Low-Moderate,High Risk,Shadow governance risk,Immediate Review,Weak accountability and high information/informal-power concentration undermine legitimacy.
+Unit_07,Moderate-High,Stable,Procedurally credible authority,Routine Monitoring,Strong fairness, practical influence, and voice access support coordination.
+Unit_08,Low,High Risk,Severe legitimacy decay and hidden influence risk,Immediate Review,Synthetic example of very high distrust, arbitrariness, and shadow-governance risk.
+Unit_09,High,Stable,Durable legitimate authority,Routine Monitoring,Strong formal legitimacy, information access, and accountability support governance stability.
+Unit_10,Low,High Risk,Governance fragmentation risk,Immediate Review,Synthetic example of high fragmentation, distrust, and low procedural credibility.
