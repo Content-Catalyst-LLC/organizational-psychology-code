@@ -1,0 +1,11 @@
+team_id,avg_team_dynamics_profile,performance_condition,team_pattern,review_priority,interpretive_note
+Team_01,High,Strong,Strong collective performance,Routine Monitoring,Strong communication, trust, role clarity, psychological safety, leadership support, participation equity, and learning routines support collective performance.
+Team_02,Moderate,Moderate,Symbolic teamwork risk,Structured Review,Conflict load and coordination cost rise while trust, role clarity, and learning routine quality weaken.
+Team_03,High,Strong,Strong collective performance,Routine Monitoring,Strong team-system conditions and low coordination cost support adaptive performance.
+Team_04,Low,Weak,Severe team-system risk,Immediate Review,Synthetic example of high conflict load, high task ambiguity, high coordination cost, weak psychological safety, and weak learning routines.
+Team_05,Moderate-High,Strong,Mostly effective team dynamics,Routine Monitoring,Monitor ambiguity and coordination cost as interdependence increases.
+Team_06,Low-Moderate,Weak,Team-system risk,Immediate Review,Weak communication, role clarity, and leadership support reduce collective performance.
+Team_07,Moderate-High,Strong,Strong team dynamics,Routine Monitoring,Strong communication, psychological safety, and participation equity support collaboration.
+Team_08,Low,Weak,Severe symbolic teamwork risk,Immediate Review,Synthetic example of weak participation equity and high conflict load.
+Team_09,High,Strong,Strong collective performance,Routine Monitoring,Strong trust, safety, and leadership support sustain performance.
+Team_10,Low,Weak,Team-system risk,Immediate Review,Synthetic example of high coordination cost and weak leadership support.
