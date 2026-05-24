@@ -1,0 +1,11 @@
+team_id,avg_work_system_profile,work_system_condition,review_priority,interpretive_note
+Team_01,High,Healthy work system,Routine Monitoring,Strong role clarity, leadership trust, psychological safety, team coordination, institutional support, and voice access.
+Team_02,Moderate,Strained work system,Structured Review,Moderate trust and coordination with rising workload and burnout pressure.
+Team_03,High,Healthy work system,Routine Monitoring,High capability, trust, safety, communication quality, and institutional support.
+Team_04,Low,High risk,Immediate Review,Synthetic example of low trust, weak role clarity, low safety, high workload, high burnout, and weak support.
+Team_05,Moderate-High,Mostly stable,Routine Monitoring,Monitor workload and burnout pressure while preserving trust and fairness.
+Team_06,Low-Moderate,High risk,Immediate Review,Weak motivation, role clarity, trust, and safety combine with high strain.
+Team_07,Moderate-High,Stable,Routine Monitoring,Healthy coordination and trust with manageable risk signals.
+Team_08,Low,High risk,Immediate Review,Synthetic example of severe workload and burnout pressure with low safety and support.
+Team_09,High,Healthy work system,Routine Monitoring,Strong leadership trust, role clarity, communication, and voice access.
+Team_10,Low,High risk,Immediate Review,Synthetic example of high strain, weak trust, low role clarity, and elevated system risk.

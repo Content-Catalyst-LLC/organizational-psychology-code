@@ -1,0 +1,51 @@
+title: "What Is Organizational Psychology?"
+slug: "what-is-organizational-psychology"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/what-is-organizational-psychology"
+local_path: "~/Downloads/organizational-psychology-code/articles/what-is-organizational-psychology"
+primary_methods:
+  - synthetic data generation
+  - work-system modeling
+  - multilevel organizational psychology simulation
+  - descriptive team and organizational summaries
+  - psychological safety and leadership trust analysis
+  - workload and burnout-pressure review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - organizational psychology education
+    - work-system review
+    - psychological-safety and leadership-trust review
+    - team and organizational climate analysis
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - productivity ranking
+    - loyalty scoring
+    - dissent tracking
+    - psychological assessment
+    - automated personnel decision-making
