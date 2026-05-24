@@ -1,0 +1,11 @@
+unit_id,avg_work_attitude_profile,attachment_condition,attitude_pattern,review_priority,interpretive_note
+Unit_01,High,Healthy attachment,High satisfaction and affective commitment,Routine Monitoring,Strong leadership support, fairness, development, workload balance, institutional trust, and cultural alignment support durable attachment.
+Unit_02,Moderate,Strained attachment,Symbolic commitment risk,Structured Review,Exhaustion pressure and role insecurity rise while satisfaction and affective commitment weaken.
+Unit_03,High,Healthy attachment,Strong satisfaction and commitment,Routine Monitoring,Strong institutional trust and development opportunity support retention without constraint.
+Unit_04,Low,Constrained retention risk,Severe dissatisfaction and symbolic commitment risk,Immediate Review,Synthetic example of low fairness, high insecurity, high exhaustion, low affective commitment, and high continuance pressure.
+Unit_05,Moderate-High,Mostly healthy attachment,Stable satisfaction and commitment,Routine Monitoring,Monitor workload balance and role insecurity as pressure rises.
+Unit_06,Low-Moderate,Strained attachment,Retention-system risk,Immediate Review,Weak workload balance and high exhaustion pressure reduce satisfaction and commitment.
+Unit_07,Moderate-High,Healthy attachment,Strong affective commitment,Routine Monitoring,Strong leadership support and cultural alignment support retention.
+Unit_08,Low,Constrained retention risk,Severe symbolic commitment risk,Immediate Review,Synthetic example of high continuance commitment and weak affective commitment.
+Unit_09,High,Healthy attachment,Durable employee attachment,Routine Monitoring,Strong trust and cultural alignment sustain commitment.
+Unit_10,Low,Constrained retention risk,Retention-system risk,Immediate Review,Synthetic example of low fairness, high insecurity, and high exhaustion.
