@@ -1,0 +1,11 @@
+team_id,avg_safety_profile,performance_condition,safety_pattern,review_priority,interpretive_note
+Team_01,High,Strong,Learning-oriented safety,Routine Monitoring,Strong leadership openness, inclusion, learning review quality, and knowledge sharing support voice and performance.
+Team_02,Moderate,Moderate,Symbolic voice risk,Structured Review,Blame intensity and perceived penalty rise while inclusion and learning review quality weaken.
+Team_03,High,Strong,Learning-oriented safety,Routine Monitoring,Strong safety conditions and low status asymmetry support transparent learning.
+Team_04,Low,Weak,Severe voice suppression risk,Immediate Review,Synthetic example of high blame, high status asymmetry, and high perceived penalty.
+Team_05,Moderate-High,Strong,Mostly safe learning climate,Routine Monitoring,Monitor blame and perceived penalty as workload pressure increases.
+Team_06,Low-Moderate,Weak,Team learning risk,Immediate Review,Weak learning review quality and high penalty reduce performance integrity.
+Team_07,Moderate-High,Strong,Learning-oriented safety,Routine Monitoring,Strong inclusion and leadership openness support voice behavior.
+Team_08,Low,Weak,Severe symbolic voice risk,Immediate Review,Synthetic example of weak inclusion and high perceived penalty.
+Team_09,High,Strong,Learning-oriented safety,Routine Monitoring,Strong knowledge sharing and leadership openness support team performance.
+Team_10,Low,Weak,Team learning risk,Immediate Review,Synthetic example of high blame and workload pressure.
