@@ -1,0 +1,11 @@
+unit_id,avg_goal_system_profile,performance_condition,goal_system_pattern,review_priority,interpretive_note
+Unit_01,High,Strong,Clear and aligned goal system,Routine Monitoring,Strong clarity, feedback quality, strategic alignment, review quality, and feasibility support performance.
+Unit_02,Moderate,Strained,Symbolic alignment risk,Structured Review,Overload, metric distortion, and incentive misalignment rise while feedback and feasibility weaken.
+Unit_03,High,Strong,High-quality goal system,Routine Monitoring,Strong goal clarity and review quality with low proxy drift support adaptive performance.
+Unit_04,Low,Weak,Severe performance-system risk,Immediate Review,Synthetic example of weak clarity, weak feedback, high overload, high metric distortion, and high incentive misalignment.
+Unit_05,Moderate-High,Stable,Mostly effective goal system,Routine Monitoring,Monitor overload and proxy drift as strategic conditions change.
+Unit_06,Low-Moderate,Weak,Performance-system risk,Immediate Review,Weak review quality and high overload pressure reduce goal-system effectiveness.
+Unit_07,Moderate-High,Strong,Aligned goal system,Routine Monitoring,Strong clarity, strategic alignment, and feasibility support performance.
+Unit_08,Low,Weak,Severe metric-governance risk,Immediate Review,Synthetic example of high metric distortion, high proxy drift, and weak review quality.
+Unit_09,High,Strong,Durable goal system,Routine Monitoring,Strong feedback and alignment support sustained performance.
+Unit_10,Low,Weak,Performance-system risk,Immediate Review,Synthetic example of high overload, incentive misalignment, and weak feasibility.

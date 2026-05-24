@@ -1,0 +1,54 @@
+title: "Goal Setting and Performance Systems"
+slug: "goal-setting-performance-systems"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/goal-setting-performance-systems"
+local_path: "~/Downloads/organizational-psychology-code/articles/goal-setting-performance-systems"
+primary_methods:
+  - synthetic data generation
+  - goal system effectiveness modeling
+  - performance risk simulation
+  - feedback quality analysis
+  - strategic alignment review
+  - metric distortion and proxy drift diagnostics
+  - overload and incentive misalignment review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - goal-system review
+    - performance-system education
+    - feedback-quality analysis
+    - metric-governance review
+    - strategic-alignment analysis
+    - organizational psychology teaching
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - productivity ranking
+    - goal-compliance scoring
+    - cultural-loyalty scoring
+    - psychological assessment
+    - automated personnel decision-making
