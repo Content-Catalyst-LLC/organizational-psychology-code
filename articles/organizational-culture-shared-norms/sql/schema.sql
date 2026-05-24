@@ -1,38 +1,73 @@
--- Article-level synthetic organizational psychology schema.
+-- Organizational Culture and Shared Norms
+-- Synthetic SQL schema and example queries.
+--
+-- Responsible-use scope:
+-- This schema is for synthetic-data research, methods demonstration,
+-- institutional learning, culture review, organizational development education,
+-- legitimacy analysis, and reproducible workflows. It is not an employee-screening,
+-- employment-selection, hiring, promotion, compensation, discipline, termination,
+-- workplace surveillance, individual performance-management, cultural-loyalty
+-- scoring, cultural-fit scoring, productivity-ranking, or psychological assessment tool.
 
-CREATE TABLE IF NOT EXISTS organizational_observations (
-    observation_id INTEGER PRIMARY KEY,
-    employee_id TEXT NOT NULL,
-    team_id TEXT,
-    wave INTEGER NOT NULL,
-    motivation REAL,
-    role_clarity REAL,
-    leadership_trust REAL,
-    psychological_safety REAL,
-    perceived_fairness REAL,
-    workload_pressure REAL,
-    burnout_risk REAL,
-    commitment REAL,
-    job_satisfaction REAL
+DROP TABLE IF EXISTS organizational_culture_observations;
+
+CREATE TABLE organizational_culture_observations (
+    unit_id TEXT NOT NULL,
+    period INTEGER NOT NULL,
+    value_alignment REAL NOT NULL,
+    normative_consistency REAL NOT NULL,
+    leadership_credibility REAL NOT NULL,
+    psychological_safety REAL NOT NULL,
+    shared_meaning REAL NOT NULL,
+    contradiction REAL NOT NULL,
+    fragmentation REAL NOT NULL,
+    incentive_distortion REAL NOT NULL,
+    external_pressure REAL NOT NULL,
+    strong_institutional_performance INTEGER NOT NULL,
+    symbolic_culture_risk INTEGER NOT NULL,
+    PRIMARY KEY (unit_id, period)
 );
 
-CREATE TABLE IF NOT EXISTS communication_edges (
-    edge_id INTEGER PRIMARY KEY,
-    source_employee_id TEXT NOT NULL,
-    target_employee_id TEXT NOT NULL,
-    interaction_weight REAL,
-    channel TEXT,
-    week_index INTEGER
-);
+DROP VIEW IF EXISTS organizational_culture_scores;
 
-CREATE INDEX IF NOT EXISTS idx_org_obs_employee
-ON organizational_observations(employee_id);
+CREATE VIEW organizational_culture_scores AS
+SELECT
+    unit_id,
+    period,
+    (
+        0.18 * value_alignment +
+        0.16 * normative_consistency +
+        0.15 * leadership_credibility +
+        0.14 * psychological_safety +
+        0.14 * shared_meaning -
+        0.10 * contradiction -
+        0.08 * fragmentation -
+        0.10 * incentive_distortion -
+        0.05 * external_pressure
+    ) AS cultural_coherence_score,
+    (
+        0.14 * (100 - value_alignment) +
+        0.12 * (100 - normative_consistency) +
+        0.12 * (100 - leadership_credibility) +
+        0.12 * (100 - psychological_safety) +
+        0.12 * (100 - shared_meaning) +
+        0.14 * contradiction +
+        0.10 * fragmentation +
+        0.10 * incentive_distortion +
+        0.04 * external_pressure
+    ) AS culture_risk_score,
+    strong_institutional_performance,
+    symbolic_culture_risk
+FROM organizational_culture_observations;
 
-CREATE INDEX IF NOT EXISTS idx_org_obs_team
-ON organizational_observations(team_id);
-
-CREATE INDEX IF NOT EXISTS idx_comm_edges_source
-ON communication_edges(source_employee_id);
-
-CREATE INDEX IF NOT EXISTS idx_comm_edges_target
-ON communication_edges(target_employee_id);
+-- Example query: synthetic unit culture review summary.
+SELECT
+    unit_id,
+    COUNT(*) AS observations,
+    AVG(cultural_coherence_score) AS avg_cultural_coherence,
+    AVG(culture_risk_score) AS avg_culture_risk,
+    AVG(strong_institutional_performance) AS performance_integrity_rate,
+    AVG(symbolic_culture_risk) AS symbolic_culture_risk_rate
+FROM organizational_culture_scores
+GROUP BY unit_id
+ORDER BY avg_culture_risk DESC;

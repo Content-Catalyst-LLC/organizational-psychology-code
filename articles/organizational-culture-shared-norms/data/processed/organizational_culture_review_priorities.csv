@@ -1,0 +1,11 @@
+unit_id,avg_culture_profile,performance_condition,culture_pattern,review_priority,interpretive_note
+Unit_01,High,Strong,Coherent culture,Routine Monitoring,Strong value alignment, psychological safety, leadership credibility, and shared meaning support performance integrity.
+Unit_02,Moderate,Moderate,Symbolic culture risk,Structured Review,Contradiction and incentive distortion rise while normative consistency weakens.
+Unit_03,High,Strong,Coherent culture,Routine Monitoring,Strong cultural coherence and low contradiction support learning capacity.
+Unit_04,Low,Weak,Severe culture risk,Immediate Review,Synthetic example of high contradiction, fragmentation, and incentive distortion.
+Unit_05,Moderate-High,Strong,Mostly coherent culture,Routine Monitoring,Monitor fragmentation and incentive distortion as external pressure increases.
+Unit_06,Low-Moderate,Weak,Culture-performance risk,Immediate Review,Weak safety and high incentive distortion reduce performance integrity.
+Unit_07,Moderate-High,Strong,Coherent culture,Routine Monitoring,Strong leadership credibility and psychological safety support cultural learning.
+Unit_08,Low,Weak,Severe symbolic culture risk,Immediate Review,Synthetic example of weak shared meaning and visible value-practice gaps.
+Unit_09,High,Strong,Coherent culture,Routine Monitoring,Strong value alignment and normative consistency support institutional trust.
+Unit_10,Low,Weak,Culture-performance risk,Immediate Review,Synthetic example of high incentive distortion and legitimacy risk.
