@@ -1,0 +1,11 @@
+unit_id,avg_complex_system_profile,system_condition,review_priority,interpretive_note
+Unit_01,High,Healthy complex behavioral system,Routine Monitoring,Strong trust, psychological safety, information flow, learning capacity, cultural coherence, and redundancy support resilient behavior.
+Unit_02,Moderate,Strained system,Structured Review,Moderate trust and coordination with rising workload, silence risk, fragmentation, and uncertainty.
+Unit_03,High,Healthy complex behavioral system,Routine Monitoring,Strong learning capacity, trust, safety, information flow, and slack support adaptive behavior.
+Unit_04,Low,High risk,Immediate Review,Synthetic example of low safety, low trust, weak learning capacity, low redundancy, high silence, overload, fragmentation, and uncertainty.
+Unit_05,Moderate-High,Mostly stable,Routine Monitoring,Monitor workload, silence, and environmental uncertainty while preserving system learning capacity.
+Unit_06,Low-Moderate,High risk,Immediate Review,Weak information flow, low trust, low learning capacity, high overload, and fragmentation create complex system risk.
+Unit_07,Moderate-High,Stable,Routine Monitoring,Healthy trust, cultural coherence, and information flow with manageable risk signals.
+Unit_08,Low,High risk,Immediate Review,Synthetic example of severe overload, silence, fragmentation, weak learning, and low redundancy.
+Unit_09,High,Healthy complex behavioral system,Routine Monitoring,Strong leadership trust, psychological safety, information flow, and learning capacity support resilience.
+Unit_10,Low,High risk,Immediate Review,Synthetic example of high fragmentation, high silence risk, weak trust, and low redundancy.
