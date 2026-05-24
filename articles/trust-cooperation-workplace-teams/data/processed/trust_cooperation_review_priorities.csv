@@ -1,0 +1,11 @@
+team_id,avg_trust_profile,collaboration_condition,trust_pattern,review_priority,interpretive_note
+Team_01,High,Strong,Trust-supported cooperation,Routine Monitoring,Strong competence, integrity, reciprocity, communication reliability, leadership credibility, and institutional trust support collaboration.
+Team_02,Moderate,Moderate,Symbolic cooperation risk,Structured Review,Opportunism risk and power imbalance rise while integrity trust and reciprocity weaken.
+Team_03,High,Strong,Trust-supported cooperation,Routine Monitoring,Strong trust dimensions and low opportunism risk support durable cooperation.
+Team_04,Low,Weak,Severe distrust and cooperation risk,Immediate Review,Synthetic example of high opportunism risk, high power imbalance, low benevolence trust, and weak institutional trust.
+Team_05,Moderate-High,Strong,Mostly cooperative trust system,Routine Monitoring,Monitor uncertainty load and reciprocity as workload pressure rises.
+Team_06,Low-Moderate,Weak,Collaboration-system risk,Immediate Review,Weak communication reliability and high opportunism risk reduce cooperative capacity.
+Team_07,Moderate-High,Strong,Trust-supported cooperation,Routine Monitoring,Strong competence trust, communication reliability, and leadership credibility support collaboration.
+Team_08,Low,Weak,Severe symbolic cooperation risk,Immediate Review,Synthetic example of weak reciprocity, weak institutional trust, and high power imbalance.
+Team_09,High,Strong,Trust-supported cooperation,Routine Monitoring,Strong integrity trust and communication reliability support cross-team collaboration.
+Team_10,Low,Weak,Collaboration-system risk,Immediate Review,Synthetic example of high uncertainty load and weak institutional trust.

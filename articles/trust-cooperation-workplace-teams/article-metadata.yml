@@ -1,0 +1,54 @@
+title: "Trust and Cooperation in Workplace Teams"
+slug: "trust-cooperation-workplace-teams"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/trust-cooperation-workplace-teams"
+local_path: "~/Downloads/organizational-psychology-code/articles/trust-cooperation-workplace-teams"
+primary_methods:
+  - synthetic data generation
+  - cooperative capacity modeling
+  - strong collaboration simulation
+  - trust risk analysis
+  - reciprocity and communication reliability review
+  - opportunism risk and power imbalance diagnostics
+  - institutional trust and leadership credibility review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - trust-and-cooperation review
+    - collaboration-system education
+    - reciprocity analysis
+    - leadership and governance review
+    - organizational psychology teaching
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - cultural-loyalty scoring
+    - trustworthiness scoring
+    - cooperation scoring of workers
+    - productivity ranking
+    - psychological assessment
+    - automated personnel decision-making
