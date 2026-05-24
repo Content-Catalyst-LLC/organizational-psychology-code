@@ -1,0 +1,11 @@
+unit_id,avg_leadership_profile,leadership_condition,leadership_style_pattern,review_priority,interpretive_note
+Unit_01,High,Healthy leadership system,Participatory-structured leadership,Routine Monitoring,Strong communication quality, trust generation, decision fit, and psychological safety support institutional performance.
+Unit_02,Moderate,Strained leadership system,Style misfit and control pressure,Structured Review,Control pressure and ambiguity rise while trust, voice, and developmental support weaken.
+Unit_03,High,Healthy leadership system,High-trust adaptive leadership,Routine Monitoring,Strong communication, trust, structure, and developmental support reinforce performance.
+Unit_04,Low,High risk,Severe leadership-style risk,Immediate Review,Synthetic example of weak trust, low voice, high control pressure, high ambiguity, and style misfit.
+Unit_05,Moderate-High,Mostly stable,Structured participatory leadership,Routine Monitoring,Monitor ambiguity and control pressure as institutional complexity rises.
+Unit_06,Low-Moderate,High risk,Performance and voice-suppression risk,Immediate Review,Weak communication, low trust, and high disengagement pressure reduce leadership effectiveness.
+Unit_07,Moderate-High,Stable,Trust-supported leadership,Routine Monitoring,Strong decision fit, communication, and cultural alignment support coordination.
+Unit_08,Low,High risk,Authoritarian overuse and laissez-faire absence risk,Immediate Review,Synthetic example of high control pressure, low safety, low trust, and weak guidance credibility.
+Unit_09,High,Healthy leadership system,Durable leadership effectiveness,Routine Monitoring,Strong structure, communication, trust, and cultural alignment support resilient performance.
+Unit_10,Low,High risk,Leadership-system risk,Immediate Review,Synthetic example of high ambiguity, high disengagement pressure, low trust, and voice suppression.
