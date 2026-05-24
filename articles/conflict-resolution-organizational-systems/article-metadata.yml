@@ -1,0 +1,54 @@
+title: "Conflict Resolution in Organizational Systems"
+slug: "conflict-resolution-organizational-systems"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/conflict-resolution-organizational-systems"
+local_path: "~/Downloads/organizational-psychology-code/articles/conflict-resolution-organizational-systems"
+primary_methods:
+  - synthetic data generation
+  - constructive conflict capacity modeling
+  - collaborative resolution simulation
+  - escalation-risk analysis
+  - procedural fairness review
+  - mediation and dispute-system diagnostics
+  - power asymmetry and blame-intensity review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - conflict-system review
+    - mediation-process education
+    - procedural fairness analysis
+    - leadership and dispute-system analysis
+    - organizational psychology teaching
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - cultural-loyalty scoring
+    - conflict-proneness scoring
+    - collaboration scoring of workers
+    - productivity ranking
+    - psychological assessment
+    - automated personnel decision-making

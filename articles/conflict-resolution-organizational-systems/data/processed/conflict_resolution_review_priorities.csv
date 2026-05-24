@@ -1,0 +1,11 @@
+team_id,avg_conflict_capacity_profile,resolution_condition,conflict_pattern,review_priority,interpretive_note
+Team_01,High,Strong,Constructive conflict capacity,Routine Monitoring,Strong trust, fairness, safety, and mediation access support collaborative resolution.
+Team_02,Moderate,Moderate,Symbolic resolution risk,Structured Review,Blame intensity and power asymmetry rise while fairness and integrative skill weaken.
+Team_03,High,Strong,Constructive conflict capacity,Routine Monitoring,Strong procedural fairness and low power asymmetry support conflict learning.
+Team_04,Low,Weak,Severe escalation risk,Immediate Review,Synthetic example of high blame, high power asymmetry, weak fairness, and low mediation access.
+Team_05,Moderate-High,Strong,Mostly constructive conflict system,Routine Monitoring,Monitor resource strain and power asymmetry as workload pressure rises.
+Team_06,Low-Moderate,Weak,Conflict-system risk,Immediate Review,Weak communication clarity and high blame intensity reduce collaborative resolution.
+Team_07,Moderate-High,Strong,Constructive conflict capacity,Routine Monitoring,Strong trust and integrative skill support collaboration.
+Team_08,Low,Weak,Severe symbolic resolution risk,Immediate Review,Synthetic example of low fairness and high resource strain.
+Team_09,High,Strong,Constructive conflict capacity,Routine Monitoring,Strong safety, trust, and mediation access support resolution quality.
+Team_10,Low,Weak,Conflict-system risk,Immediate Review,Synthetic example of high resource strain and power asymmetry.
