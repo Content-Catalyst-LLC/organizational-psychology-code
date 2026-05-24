@@ -1,0 +1,11 @@
+unit_id,avg_motivation_profile,motivational_condition,motivation_pattern,review_priority,interpretive_note
+Unit_01,High,Healthy motivation,Autonomy-supported and trust-based motivation,Routine Monitoring,Strong autonomy support, competence development, fairness, meaningful work, psychological safety, and leadership credibility support adaptive performance.
+Unit_02,Moderate,Strained motivation,Controlled motivation risk,Structured Review,Workload strain and control pressure rise while recognition, fairness, trust, and psychological safety weaken.
+Unit_03,High,Healthy motivation,Strong autonomous motivation,Routine Monitoring,Strong trust, meaning, competence development, and safety support durable motivation.
+Unit_04,Low,High risk,Severe motivational-system risk,Immediate Review,Synthetic example of low autonomy, low fairness, weak trust, high strain, and high control pressure.
+Unit_05,Moderate-High,Mostly healthy motivation,Stable motivational quality,Routine Monitoring,Monitor workload strain and control pressure as demands increase.
+Unit_06,Low-Moderate,High risk,Performance and burnout risk,Immediate Review,Weak autonomy and fairness with high strain reduce motivation quality.
+Unit_07,Moderate-High,Healthy motivation,Trust-supported motivation,Routine Monitoring,Strong relatedness, recognition, and leadership credibility support motivation.
+Unit_08,Low,High risk,Controlled motivation and burnout risk,Immediate Review,Synthetic example of high control pressure and weak trust conditions.
+Unit_09,High,Healthy motivation,Durable adaptive motivation,Routine Monitoring,Strong goal clarity, fairness, and psychological safety support adaptive performance.
+Unit_10,Low,High risk,Motivational-system risk,Immediate Review,Synthetic example of low fairness, low trust, high workload strain, and high burnout risk.

@@ -1,0 +1,53 @@
+title: "Employee Motivation in Organizations"
+slug: "employee-motivation-organizations"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/employee-motivation-organizations"
+local_path: "~/Downloads/organizational-psychology-code/articles/employee-motivation-organizations"
+primary_methods:
+  - synthetic data generation
+  - motivation quality modeling
+  - adaptive performance simulation
+  - autonomy and competence analysis
+  - fairness and institutional trust review
+  - workload strain and control pressure diagnostics
+  - leadership credibility and psychological safety review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - motivational-systems review
+    - work-design education
+    - autonomy/fairness/trust/workload analysis
+    - leadership and culture review
+    - organizational psychology teaching
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - productivity ranking
+    - motivation scoring
+    - loyalty scoring
+    - psychological assessment
+    - automated personnel decision-making
