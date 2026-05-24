@@ -1,0 +1,11 @@
+unit_id,avg_leadership_profile,leadership_condition,leadership_pattern,review_priority,interpretive_note
+Unit_01,High,Healthy leadership system,Trustworthy and coordinated leadership,Routine Monitoring,"Strong trust, communication clarity, legitimacy, psychological safety, role clarity, and ethical accountability support institutional stability."
+Unit_02,Moderate,Strained leadership system,Legitimacy and performance risk,Structured Review,"Ambiguity, distrust, and overload rise while trust, clarity, and voice weaken."
+Unit_03,High,Healthy leadership system,High-trust adaptive leadership,Routine Monitoring,"Strong legitimacy, trust, communication, voice access, and coordination reinforce leadership capacity."
+Unit_04,Low,High risk,Severe leadership-system risk,Immediate Review,"Synthetic example of weak trust, low legitimacy, high ambiguity, high distrust, fragmentation, overload, and voice suppression."
+Unit_05,Moderate-High,Mostly stable,Credible leadership with monitoring needs,Routine Monitoring,"Monitor overload and fragmentation as complexity rises."
+Unit_06,Low-Moderate,High risk,Voice suppression and legitimacy decay risk,Immediate Review,"Weak communication, low psychological safety, high ambiguity, and distrust reduce leadership capacity."
+Unit_07,Moderate-High,Stable,Adaptive coordinated leadership,Routine Monitoring,"Strong trust, clarity, legitimacy, and role clarity support coordinated performance."
+Unit_08,Low,High risk,Severe legitimacy and stability risk,Immediate Review,"Synthetic example of high overload, ambiguity, distrust, and weak leadership-system credibility."
+Unit_09,High,Healthy leadership system,Durable leadership capacity,Routine Monitoring,"Strong communication clarity, adaptive coordination, and legitimacy support institutional stability."
+Unit_10,Low,High risk,Fragmented leadership system,Immediate Review,"Synthetic example of high distrust, high ambiguity, high overload, weak trust, and voice suppression."

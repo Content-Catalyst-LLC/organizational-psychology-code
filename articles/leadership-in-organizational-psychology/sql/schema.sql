@@ -1,38 +1,88 @@
--- Article-level synthetic organizational psychology schema.
+-- Leadership in Organizational Psychology
+-- Synthetic SQL schema and example queries.
+-- Responsible-use scope: synthetic-data research and institutional learning only.
+-- Not for employment decisions, surveillance, productivity ranking, loyalty
+-- scoring, political-influence scoring, dissent tracking, or psychological assessment.
 
-CREATE TABLE IF NOT EXISTS organizational_observations (
-    observation_id INTEGER PRIMARY KEY,
-    employee_id TEXT NOT NULL,
-    team_id TEXT,
-    wave INTEGER NOT NULL,
-    motivation REAL,
-    role_clarity REAL,
-    leadership_trust REAL,
-    psychological_safety REAL,
-    perceived_fairness REAL,
-    workload_pressure REAL,
-    burnout_risk REAL,
-    commitment REAL,
-    job_satisfaction REAL
+DROP TABLE IF EXISTS leadership_capacity_observations;
+
+CREATE TABLE leadership_capacity_observations (
+    unit_id TEXT NOT NULL,
+    period INTEGER NOT NULL,
+    trust_generation REAL NOT NULL,
+    communication_clarity REAL NOT NULL,
+    motivational_support REAL NOT NULL,
+    legitimacy_quality REAL NOT NULL,
+    adaptive_coordination REAL NOT NULL,
+    psychological_safety REAL NOT NULL,
+    role_clarity REAL NOT NULL,
+    ethical_accountability REAL NOT NULL,
+    decision_transparency REAL NOT NULL,
+    voice_access REAL NOT NULL,
+    ambiguity_pressure REAL NOT NULL,
+    distrust_pressure REAL NOT NULL,
+    fragmentation_pressure REAL NOT NULL,
+    overload_pressure REAL NOT NULL,
+    voice_suppression_risk INTEGER NOT NULL,
+    performance_risk INTEGER NOT NULL,
+    legitimacy_decay_risk INTEGER NOT NULL,
+    fragmentation_risk INTEGER NOT NULL,
+    PRIMARY KEY (unit_id, period)
 );
 
-CREATE TABLE IF NOT EXISTS communication_edges (
-    edge_id INTEGER PRIMARY KEY,
-    source_employee_id TEXT NOT NULL,
-    target_employee_id TEXT NOT NULL,
-    interaction_weight REAL,
-    channel TEXT,
-    week_index INTEGER
-);
+DROP VIEW IF EXISTS leadership_capacity_scores;
 
-CREATE INDEX IF NOT EXISTS idx_org_obs_employee
-ON organizational_observations(employee_id);
+CREATE VIEW leadership_capacity_scores AS
+SELECT
+    unit_id,
+    period,
+    (
+        0.11 * trust_generation +
+        0.11 * communication_clarity +
+        0.10 * motivational_support +
+        0.11 * legitimacy_quality +
+        0.10 * adaptive_coordination +
+        0.10 * psychological_safety +
+        0.08 * role_clarity +
+        0.09 * ethical_accountability +
+        0.08 * decision_transparency +
+        0.08 * voice_access -
+        0.07 * ambiguity_pressure -
+        0.08 * distrust_pressure -
+        0.07 * fragmentation_pressure -
+        0.06 * overload_pressure
+    ) AS leadership_capacity_score,
+    (
+        0.10 * (100 - trust_generation) +
+        0.09 * (100 - communication_clarity) +
+        0.08 * (100 - motivational_support) +
+        0.11 * (100 - legitimacy_quality) +
+        0.08 * (100 - adaptive_coordination) +
+        0.10 * (100 - psychological_safety) +
+        0.07 * (100 - role_clarity) +
+        0.09 * (100 - ethical_accountability) +
+        0.07 * (100 - decision_transparency) +
+        0.08 * (100 - voice_access) +
+        0.08 * ambiguity_pressure +
+        0.10 * distrust_pressure +
+        0.09 * fragmentation_pressure +
+        0.08 * overload_pressure
+    ) AS leadership_system_risk_score,
+    performance_risk,
+    voice_suppression_risk,
+    legitimacy_decay_risk,
+    fragmentation_risk
+FROM leadership_capacity_observations;
 
-CREATE INDEX IF NOT EXISTS idx_org_obs_team
-ON organizational_observations(team_id);
-
-CREATE INDEX IF NOT EXISTS idx_comm_edges_source
-ON communication_edges(source_employee_id);
-
-CREATE INDEX IF NOT EXISTS idx_comm_edges_target
-ON communication_edges(target_employee_id);
+SELECT
+    unit_id,
+    COUNT(*) AS observations,
+    AVG(leadership_capacity_score) AS avg_leadership_capacity,
+    AVG(leadership_system_risk_score) AS avg_leadership_system_risk,
+    AVG(performance_risk) AS performance_risk_rate,
+    AVG(voice_suppression_risk) AS voice_suppression_risk_rate,
+    AVG(legitimacy_decay_risk) AS legitimacy_decay_risk_rate,
+    AVG(fragmentation_risk) AS fragmentation_risk_rate
+FROM leadership_capacity_scores
+GROUP BY unit_id
+ORDER BY avg_leadership_system_risk DESC;
