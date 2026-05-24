@@ -1,0 +1,52 @@
+title: "The Evolution of Organizational Psychology"
+slug: "evolution-of-organizational-psychology"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/evolution-of-organizational-psychology"
+local_path: "~/Downloads/organizational-psychology-code/articles/evolution-of-organizational-psychology"
+primary_methods:
+  - synthetic historical field-emphasis data
+  - research-emphasis mapping
+  - field-orientation indices
+  - responsible progress modeling
+  - descriptive history-of-field workflow
+  - reproducible educational simulation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - organizational psychology education
+    - history-of-field analysis
+    - research-emphasis mapping
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - productivity ranking
+    - loyalty scoring
+    - dissent tracking
+    - psychological assessment
+    - scholar ranking
+    - department ranking
+    - journal ranking
+    - automated personnel decision-making
