@@ -1,0 +1,11 @@
+unit_id,avg_incentive_system_profile,behavioral_condition,incentive_system_pattern,review_priority,interpretive_note
+Unit_01,High,Strong,Clear and legitimate incentive system,Routine Monitoring,Strong expectancy, fairness, alignment, feedback clarity, cooperation support, and reward transparency support performance without high distortion risk.
+Unit_02,Moderate,Strained,Symbolic reward risk,Structured Review,Distortion and overload rise while fairness, cooperation support, and hidden-labor recognition weaken.
+Unit_03,High,Strong,High-quality incentive system,Routine Monitoring,Strong fairness, strategic alignment, intrinsic support, recognition legitimacy, and low ethical risk support institutional learning.
+Unit_04,Low,Weak,Severe incentive-system risk,Immediate Review,Synthetic example of weak fairness, weak transparency, high distortion risk, high overload, and high ethical risk.
+Unit_05,Moderate-High,Stable,Mostly effective incentive system,Routine Monitoring,Monitor distortion risk and hidden-labor recognition as pressure rises.
+Unit_06,Low-Moderate,Weak,Performance and ethics risk,Immediate Review,Weak fairness and high overload pressure reduce incentive effectiveness.
+Unit_07,Moderate-High,Strong,Aligned incentive system,Routine Monitoring,Strong recognition legitimacy and cooperation support reinforce useful behavior.
+Unit_08,Low,Weak,Severe gaming and symbolic reward risk,Immediate Review,Synthetic example of high incentive gaming risk and low hidden-labor recognition.
+Unit_09,High,Strong,Durable reward-governance conditions,Routine Monitoring,Strong feedback clarity and strategic alignment support sustained performance.
+Unit_10,Low,Weak,Incentive-system risk,Immediate Review,Synthetic example of high metric distortion and weak reward transparency.

@@ -1,0 +1,54 @@
+title: "Incentives and Workplace Behavior"
+slug: "incentives-workplace-behavior"
+series: "Organizational Psychology"
+article_type: "advanced-research-grade-companion-code-scaffold"
+status: "research-methods-demo"
+repository: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code"
+article_repository_path: "https://github.com/Content-Catalyst-LLC/organizational-psychology-code/tree/main/articles/incentives-workplace-behavior"
+local_path: "~/Downloads/organizational-psychology-code/articles/incentives-workplace-behavior"
+primary_methods:
+  - synthetic data generation
+  - incentive effectiveness modeling
+  - performance risk simulation
+  - fairness and legitimacy analysis
+  - metric distortion and proxy failure review
+  - ethical risk and overload diagnostics
+  - cooperation and team-incentive review
+  - responsible interpretation documentation
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+responsible_use:
+  allowed:
+    - synthetic-data research
+    - methods demonstration
+    - institutional learning
+    - incentive-system review
+    - reward-governance education
+    - fairness and metric-distortion analysis
+    - ethical-risk review
+    - cooperation and culture review
+    - organizational psychology teaching
+    - reproducible workflow education
+  prohibited:
+    - employee screening
+    - employment selection
+    - hiring
+    - promotion
+    - compensation
+    - discipline
+    - termination
+    - workplace surveillance
+    - individual performance management
+    - productivity ranking
+    - incentive-compliance scoring
+    - cultural-loyalty scoring
+    - psychological assessment
+    - automated personnel decision-making
